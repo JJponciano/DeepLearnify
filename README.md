@@ -1,1 +1,1 @@
-# DeepLearnify
+# DeepLearnify-ce ( Community edition)
